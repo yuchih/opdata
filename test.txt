@@ -1,0 +1,1434 @@
+
+    marker5.bindPopup("<strong>松山機場站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker6 = L.marker([25.063673, 121.551294], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker6.bindPopup("<strong>松山機場站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker7 = L.marker([25.062923, 121.552241], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker7.bindPopup("<strong>松山機場站出口3</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker8 = L.marker([25.060889, 121.544031], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker8.bindPopup("<strong>中山國中站出口</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker9 = L.marker([25.041797, 121.543143], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker9.bindPopup("<strong>忠孝復興站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker10 = L.marker([25.041355, 121.543422], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker10.bindPopup("<strong>忠孝復興站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker11 = L.marker([25.041467, 121.544806], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker11.bindPopup("<strong>忠孝復興站出口3</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker12 = L.marker([25.041772, 121.54506], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker12.bindPopup("<strong>忠孝復興站出口4</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker13 = L.marker([25.04202, 121.543985], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker13.bindPopup("<strong>忠孝復興站出口5</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker14 = L.marker([25.033508, 121.541949], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker14.bindPopup("<strong>大安站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker15 = L.marker([25.033515, 121.541826], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker15.bindPopup("<strong>大安站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker16 = L.marker([25.033241, 121.54233], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker16.bindPopup("<strong>大安站出口3</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker17 = L.marker([25.033066, 121.544057], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker17.bindPopup("<strong>大安站出口4</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker18 = L.marker([25.032862, 121.543719], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker18.bindPopup("<strong>大安站出口5</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker19 = L.marker([25.034006, 121.543749], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker19.bindPopup("<strong>大安站出口6</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker20 = L.marker([25.026154, 121.543636], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker20.bindPopup("<strong>科技大樓站出口</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker21 = L.marker([25.023852, 121.552737], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker21.bindPopup("<strong>六張犁站出口</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker22 = L.marker([25.018554, 121.558606], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker22.bindPopup("<strong>麟光站出口</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker23 = L.marker([25.005119, 121.557021], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker23.bindPopup("<strong>辛亥站出口</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker24 = L.marker([24.999383, 121.557737], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker24.bindPopup("<strong>萬芳醫院站出口</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker25 = L.marker([24.99858, 121.568409], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker25.bindPopup("<strong>萬芳社區站出口</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker26 = L.marker([24.998174, 121.573417], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker26.bindPopup("<strong>木柵站出口</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker27 = L.marker([24.99825, 121.579916], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker27.bindPopup("<strong>動物園站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker28 = L.marker([24.997948, 121.579417], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker28.bindPopup("<strong>動物園站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker29 = L.marker([25.080118, 121.547104], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker29.bindPopup("<strong>大直站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker30 = L.marker([25.079584, 121.546823], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker30.bindPopup("<strong>大直站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker31 = L.marker([25.07931, 121.546901], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker31.bindPopup("<strong>大直站出口3</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker32 = L.marker([25.085174, 121.555226], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker32.bindPopup("<strong>劍南路站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker33 = L.marker([25.084754, 121.555097], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker33.bindPopup("<strong>劍南路站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker34 = L.marker([25.084484, 121.556098], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker34.bindPopup("<strong>劍南路站出口3</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker35 = L.marker([25.082339, 121.566647], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker35.bindPopup("<strong>西湖站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker36 = L.marker([25.082023, 121.567141], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker36.bindPopup("<strong>西湖站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker37 = L.marker([25.080152, 121.57556], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker37.bindPopup("<strong>港墘站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker38 = L.marker([25.080065, 121.574704], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker38.bindPopup("<strong>港墘站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker39 = L.marker([25.078671, 121.58564], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker39.bindPopup("<strong>文德站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker40 = L.marker([25.078408, 121.58447], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker40.bindPopup("<strong>文德站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker41 = L.marker([25.083745, 121.594266], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker41.bindPopup("<strong>內湖站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker42 = L.marker([25.083636, 121.594612], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker42.bindPopup("<strong>內湖站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker43 = L.marker([25.083894, 121.602377], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker43.bindPopup("<strong>大湖公園站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker44 = L.marker([25.083675, 121.60221], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker44.bindPopup("<strong>大湖公園站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker45 = L.marker([25.072638, 121.608047], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker45.bindPopup("<strong>葫洲站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker46 = L.marker([25.072534, 121.607197], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker46.bindPopup("<strong>葫洲站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker47 = L.marker([25.067218, 121.611129], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker47.bindPopup("<strong>東湖站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker48 = L.marker([25.067111, 121.611239], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker48.bindPopup("<strong>東湖站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker49 = L.marker([25.067053, 121.611724], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker49.bindPopup("<strong>東湖站出口3</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker50 = L.marker([25.059995, 121.615817], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker50.bindPopup("<strong>南港軟體園區站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker51 = L.marker([25.059883, 121.616091], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker51.bindPopup("<strong>南港軟體園區站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker52 = L.marker([25.055847, 121.616936], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker52.bindPopup("<strong>南港展覽館站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker53 = L.marker([25.055308, 121.616984], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker53.bindPopup("<strong>南港展覽館站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker54 = L.marker([25.055123, 121.618239], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker54.bindPopup("<strong>南港展覽館站出口3</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker55 = L.marker([25.055386, 121.618266], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker55.bindPopup("<strong>南港展覽館站出口4</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker56 = L.marker([25.05524, 121.617043], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker56.bindPopup("<strong>南港展覽館站出口2A</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker57 = L.marker([25.054917, 121.616861], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker57.bindPopup("<strong>南港展覽館站出口5</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker58 = L.marker([25.054739, 121.618183], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker58.bindPopup("<strong>南港展覽館站出口6</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker59 = L.marker([25.054035, 121.618148], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker59.bindPopup("<strong>南港展覽館站出口7</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker60 = L.marker([24.971684, 121.530311], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker60.bindPopup("<strong>小碧潭站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker61 = L.marker([24.973192, 121.52995], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker61.bindPopup("<strong>小碧潭站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker62 = L.marker([24.957877, 121.537558], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker62.bindPopup("<strong>新店站出口</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker63 = L.marker([24.967393, 121.541124], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker63.bindPopup("<strong>新店區公所站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker64 = L.marker([24.967986, 121.541845], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker64.bindPopup("<strong>新店區公所站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker65 = L.marker([24.975025, 121.543068], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker65.bindPopup("<strong>七張站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker66 = L.marker([24.97691, 121.542641], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker66.bindPopup("<strong>七張站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker67 = L.marker([24.982754, 121.540874], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker67.bindPopup("<strong>大坪林站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker68 = L.marker([24.982051, 121.541619], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker68.bindPopup("<strong>大坪林站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker69 = L.marker([24.982982, 121.541572], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker69.bindPopup("<strong>大坪林站出口3</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker70 = L.marker([24.983539, 121.541405], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker70.bindPopup("<strong>大坪林站出口4</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker71 = L.marker([24.992296, 121.540933], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker71.bindPopup("<strong>景美站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker72 = L.marker([24.993069, 121.541517], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker72.bindPopup("<strong>景美站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker73 = L.marker([24.992744, 121.540546], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker73.bindPopup("<strong>景美站出口3</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker74 = L.marker([25.001367, 121.538896], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker74.bindPopup("<strong>萬隆站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker75 = L.marker([25.00151, 121.539613], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker75.bindPopup("<strong>萬隆站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker76 = L.marker([25.002215, 121.539195], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker76.bindPopup("<strong>萬隆站出口3</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker77 = L.marker([25.002676, 121.538572], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker77.bindPopup("<strong>萬隆站出口4</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker78 = L.marker([25.014509, 121.534377], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker78.bindPopup("<strong>公館站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker79 = L.marker([25.014718, 121.534721], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker79.bindPopup("<strong>公館站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker80 = L.marker([25.015413, 121.534055], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker80.bindPopup("<strong>公館站出口3</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker81 = L.marker([25.015148, 121.533623], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker81.bindPopup("<strong>公館站出口4</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker82 = L.marker([25.01962, 121.528577], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker82.bindPopup("<strong>台電大樓站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker83 = L.marker([25.020192, 121.529093], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker83.bindPopup("<strong>台電大樓站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker84 = L.marker([25.021179, 121.527849], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker84.bindPopup("<strong>台電大樓站出口3</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker85 = L.marker([25.021018, 121.527297], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker85.bindPopup("<strong>台電大樓站出口4</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker86 = L.marker([25.020758, 121.527739], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker86.bindPopup("<strong>台電大樓站出口5</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker87 = L.marker([25.025976, 121.522973], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker87.bindPopup("<strong>古亭站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker88 = L.marker([25.025502, 121.523353], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker88.bindPopup("<strong>古亭站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker89 = L.marker([25.026078, 121.523353], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker89.bindPopup("<strong>古亭站出口3</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker90 = L.marker([25.026424, 121.523069], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker90.bindPopup("<strong>古亭站出口4</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker91 = L.marker([25.027184, 121.522873], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker91.bindPopup("<strong>古亭站出口5</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker92 = L.marker([25.027537, 121.522297], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker92.bindPopup("<strong>古亭站出口6</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker93 = L.marker([25.02742, 121.521937], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker93.bindPopup("<strong>古亭站出口7</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker94 = L.marker([25.027056, 121.521894], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker94.bindPopup("<strong>古亭站出口8</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker95 = L.marker([25.026798, 121.522404], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker95.bindPopup("<strong>古亭站出口9</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker96 = L.marker([25.033034, 121.517764], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker96.bindPopup("<strong>中正紀念堂站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker97 = L.marker([25.032406, 121.518261], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker97.bindPopup("<strong>中正紀念堂站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker98 = L.marker([25.032281, 121.519], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker98.bindPopup("<strong>中正紀念堂站出口3</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker99 = L.marker([25.033525, 121.51796], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker99.bindPopup("<strong>中正紀念堂站出口4</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker100 = L.marker([25.035148, 121.517109], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker100.bindPopup("<strong>中正紀念堂站出口5</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker101 = L.marker([25.03588, 121.516543], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker101.bindPopup("<strong>中正紀念堂站出口6</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker102 = L.marker([25.034565, 121.515983], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker102.bindPopup("<strong>中正紀念堂站出口7</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker103 = L.marker([25.036434, 121.509752], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker103.bindPopup("<strong>小南門站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker104 = L.marker([25.035736, 121.509865], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker104.bindPopup("<strong>小南門站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker105 = L.marker([25.035309, 121.510988], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker105.bindPopup("<strong>小南門站出口3</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker106 = L.marker([25.035226, 121.511455], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker106.bindPopup("<strong>小南門站出口4</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker107 = L.marker([25.012895, 121.515414], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker107.bindPopup("<strong>頂溪站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker108 = L.marker([25.014222, 121.515446], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker108.bindPopup("<strong>頂溪站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker109 = L.marker([25.002375, 121.510962], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker109.bindPopup("<strong>永安市場站出口</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker110 = L.marker([24.993731, 121.504632], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker110.bindPopup("<strong>景安站出口</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker111 = L.marker([24.990016, 121.508639], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker111.bindPopup("<strong>南勢角站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker112 = L.marker([24.989919, 121.508853], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker112.bindPopup("<strong>南勢角站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker113 = L.marker([24.989651, 121.509395], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker113.bindPopup("<strong>南勢角站出口3</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker114 = L.marker([24.989486, 121.509776], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker114.bindPopup("<strong>南勢角站出口4</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker115 = L.marker([25.040913, 121.515731], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker115.bindPopup("<strong>台大醫院站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker116 = L.marker([25.041224, 121.516589], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker116.bindPopup("<strong>台大醫院站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker117 = L.marker([25.042808, 121.516632], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker117.bindPopup("<strong>台大醫院站出口3</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker118 = L.marker([25.042876, 121.516299], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker118.bindPopup("<strong>台大醫院站出口4</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker119 = L.marker([25.046755, 121.516246], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker119.bindPopup("<strong>台北車站M5</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker120 = L.marker([25.046234, 121.516787], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker120.bindPopup("<strong>台北車站M6</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker121 = L.marker([25.046077, 121.518643], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker121.bindPopup("<strong>台北車站M7</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker122 = L.marker([25.045948, 121.517479], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker122.bindPopup("<strong>台北車站M8</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker123 = L.marker([25.048232, 121.518193], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker123.bindPopup("<strong>台北車站M1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker124 = L.marker([25.048064, 121.519067], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker124.bindPopup("<strong>台北車站M2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker125 = L.marker([25.046337, 121.517882], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker125.bindPopup("<strong>台北車站M3</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker126 = L.marker([25.046485, 121.517345], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker126.bindPopup("<strong>台北車站M4</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker127 = L.marker([25.057499, 121.520588], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker127.bindPopup("<strong>雙連站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker128 = L.marker([25.057825, 121.520615], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker128.bindPopup("<strong>雙連站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker129 = L.marker([25.062641, 121.519454], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker129.bindPopup("<strong>民權西路站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker130 = L.marker([25.061936, 121.519867], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker130.bindPopup("<strong>民權西路站出口4</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker131 = L.marker([25.061766, 121.519786], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker131.bindPopup("<strong>民權西路站出口3</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker132 = L.marker([25.061878, 121.519614], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker132.bindPopup("<strong>民權西路站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker133 = L.marker([25.063122, 121.518558], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker133.bindPopup("<strong>民權西路站出口5</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker134 = L.marker([25.062693, 121.51853], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker134.bindPopup("<strong>民權西路站出口6</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker135 = L.marker([25.06267, 121.520092], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker135.bindPopup("<strong>民權西路站出口7</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker136 = L.marker([25.06266, 121.520602], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker136.bindPopup("<strong>民權西路站出口8</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker137 = L.marker([25.063027, 121.520744], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker137.bindPopup("<strong>民權西路站出口9</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker138 = L.marker([25.063063, 121.519791], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker138.bindPopup("<strong>民權西路站出口10</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker139 = L.marker([25.070785, 121.520033], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker139.bindPopup("<strong>圓山站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker140 = L.marker([25.071776, 121.520108], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker140.bindPopup("<strong>圓山站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker141 = L.marker([25.08503, 121.525175], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker141.bindPopup("<strong>劍潭站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker142 = L.marker([25.083466, 121.524807], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker142.bindPopup("<strong>劍潭站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker143 = L.marker([25.084284, 121.52496], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker143.bindPopup("<strong>劍潭站出口3</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker144 = L.marker([25.094106, 121.525966], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker144.bindPopup("<strong>士林站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker145 = L.marker([25.092901, 121.526433], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker145.bindPopup("<strong>士林站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker146 = L.marker([25.102046, 121.522636], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker146.bindPopup("<strong>芝山站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker147 = L.marker([25.103804, 121.522356], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker147.bindPopup("<strong>芝山站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker148 = L.marker([25.109298, 121.519153], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker148.bindPopup("<strong>明德站出口</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker149 = L.marker([25.115007, 121.515171], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker149.bindPopup("<strong>石牌站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker150 = L.marker([25.113602, 121.516205], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker150.bindPopup("<strong>石牌站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker151 = L.marker([25.120673, 121.506987], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker151.bindPopup("<strong>唭哩岸站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker152 = L.marker([25.120854, 121.50589], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker152.bindPopup("<strong>唭哩岸站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker153 = L.marker([25.126169, 121.50096], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker153.bindPopup("<strong>奇岩站出口</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker154 = L.marker([25.132316, 121.49824], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker154.bindPopup("<strong>北投站出口</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker155 = L.marker([25.136968, 121.503524], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker155.bindPopup("<strong>新北投站出口</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker156 = L.marker([25.137325, 121.485159], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker156.bindPopup("<strong>復興崗站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker157 = L.marker([25.137665, 121.485373], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker157.bindPopup("<strong>復興崗站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker158 = L.marker([25.131056, 121.473169], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker158.bindPopup("<strong>忠義站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker159 = L.marker([25.130905, 121.473657], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker159.bindPopup("<strong>忠義站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker160 = L.marker([25.125431, 121.467215], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker160.bindPopup("<strong>關渡站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker161 = L.marker([25.12547, 121.466861], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker161.bindPopup("<strong>關渡站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker162 = L.marker([25.136971, 121.459726], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker162.bindPopup("<strong>竹圍站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker163 = L.marker([25.136854, 121.459383], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker163.bindPopup("<strong>竹圍站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker164 = L.marker([25.154137, 121.459039], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker164.bindPopup("<strong>紅樹林站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker165 = L.marker([25.153831, 121.458583], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker165.bindPopup("<strong>紅樹林站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker166 = L.marker([25.168084, 121.445355], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker166.bindPopup("<strong>淡水站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker167 = L.marker([25.167577, 121.445988], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker167.bindPopup("<strong>淡水站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker168 = L.marker([24.966714, 121.435254], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker168.bindPopup("<strong>永寧站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker169 = L.marker([24.966102, 121.43568], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker169.bindPopup("<strong>永寧站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker170 = L.marker([24.966947, 121.436799], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker170.bindPopup("<strong>永寧站出口3</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker171 = L.marker([24.967191, 121.436412], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker171.bindPopup("<strong>永寧站出口4</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker172 = L.marker([24.973251, 121.444173], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker172.bindPopup("<strong>土城站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker173 = L.marker([24.972663, 121.443671], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker173.bindPopup("<strong>土城站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker174 = L.marker([24.973714, 121.445266], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker174.bindPopup("<strong>土城站出口3</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker175 = L.marker([24.985375, 121.448615], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker175.bindPopup("<strong>海山站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker176 = L.marker([24.985329, 121.448956], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker176.bindPopup("<strong>海山站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker177 = L.marker([24.98609, 121.449127], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker177.bindPopup("<strong>海山站出口3</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker178 = L.marker([24.998933, 121.452581], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker178.bindPopup("<strong>亞東醫院站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker179 = L.marker([24.998252, 121.452388], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker179.bindPopup("<strong>亞東醫院站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker180 = L.marker([24.998875, 121.45287], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker180.bindPopup("<strong>亞東醫院站出口3</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker181 = L.marker([25.008486, 121.459077], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker181.bindPopup("<strong>府中站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker182 = L.marker([25.008943, 121.459501], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker182.bindPopup("<strong>府中站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker183 = L.marker([25.009162, 121.45897], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker183.bindPopup("<strong>府中站出口3</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker184 = L.marker([25.013416, 121.461754], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker184.bindPopup("<strong>板橋站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker185 = L.marker([25.013192, 121.462483], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker185.bindPopup("<strong>板橋站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker186 = L.marker([25.014554, 121.462589], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker186.bindPopup("<strong>板橋站出口3</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker187 = L.marker([25.023063, 121.467457], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker187.bindPopup("<strong>新埔站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker188 = L.marker([25.0222, 121.468176], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker188.bindPopup("<strong>新埔站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker189 = L.marker([25.022844, 121.468574], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker189.bindPopup("<strong>新埔站出口3</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker190 = L.marker([25.023638, 121.468728], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker190.bindPopup("<strong>新埔站出口4</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker191 = L.marker([25.024163, 121.468138], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker191.bindPopup("<strong>新埔站出口5</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker192 = L.marker([25.030298, 121.471914], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker192.bindPopup("<strong>江子翠站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker193 = L.marker([25.029782, 121.471903], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker193.bindPopup("<strong>江子翠站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker194 = L.marker([25.029459, 121.472156], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker194.bindPopup("<strong>江子翠站出口3</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker195 = L.marker([25.029763, 121.472719], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker195.bindPopup("<strong>江子翠站出口4</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker196 = L.marker([25.031027, 121.473609], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker196.bindPopup("<strong>江子翠站出口5</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker197 = L.marker([25.031095, 121.473126], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker197.bindPopup("<strong>江子翠站出口6</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker198 = L.marker([25.035484, 121.49953], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker198.bindPopup("<strong>龍山寺站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker199 = L.marker([25.035109, 121.499798], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker199.bindPopup("<strong>龍山寺站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker200 = L.marker([25.035421, 121.501622], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker200.bindPopup("<strong>龍山寺站出口3</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker201 = L.marker([25.045097, 121.523009], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker201.bindPopup("<strong>善導寺站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker202 = L.marker([25.044796, 121.523053], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker202.bindPopup("<strong>善導寺站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker203 = L.marker([25.044568, 121.523734], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker203.bindPopup("<strong>善導寺站出口3</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker204 = L.marker([25.044111, 121.524217], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker204.bindPopup("<strong>善導寺站出口4</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker205 = L.marker([25.044256, 121.52482], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker205.bindPopup("<strong>善導寺站出口5</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker206 = L.marker([25.044632, 121.524898], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker206.bindPopup("<strong>善導寺站出口6</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker207 = L.marker([25.042103, 121.532065], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker207.bindPopup("<strong>忠孝新生站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker208 = L.marker([25.041783, 121.53368], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker208.bindPopup("<strong>忠孝新生站出口3</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker209 = L.marker([25.042458, 121.533213], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker209.bindPopup("<strong>忠孝新生站出口4</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker210 = L.marker([25.042784, 121.531829], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker210.bindPopup("<strong>忠孝新生站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker211 = L.marker([25.041214, 121.532232], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker211.bindPopup("<strong>忠孝新生站出口5</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker212 = L.marker([25.040791, 121.533068], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker212.bindPopup("<strong>忠孝新生站出口6</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker213 = L.marker([25.041729, 121.533068], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker213.bindPopup("<strong>忠孝新生站出口7</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker214 = L.marker([25.041642, 121.550578], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker214.bindPopup("<strong>忠孝敦化站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker215 = L.marker([25.041632, 121.551694], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker215.bindPopup("<strong>忠孝敦化站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker216 = L.marker([25.04134, 121.551586], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker216.bindPopup("<strong>忠孝敦化站出口3</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker217 = L.marker([25.04135, 121.550567], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker217.bindPopup("<strong>忠孝敦化站出口4</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker218 = L.marker([25.041238, 121.549824], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker218.bindPopup("<strong>忠孝敦化站出口5</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker219 = L.marker([25.041029, 121.549174], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker219.bindPopup("<strong>忠孝敦化站出口6</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker220 = L.marker([25.041661, 121.549913], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker220.bindPopup("<strong>忠孝敦化站出口7</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker221 = L.marker([25.041928, 121.549194], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker221.bindPopup("<strong>忠孝敦化站出口8</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker222 = L.marker([25.041838, 121.556663], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker222.bindPopup("<strong>國父紀念館站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker223 = L.marker([25.041029, 121.556704], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker223.bindPopup("<strong>國父紀念館站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker224 = L.marker([25.041195, 121.557981], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker224.bindPopup("<strong>國父紀念館站出口3</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker225 = L.marker([25.04117, 121.558539], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker225.bindPopup("<strong>國父紀念館站出口4</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker226 = L.marker([25.041501, 121.558002], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker226.bindPopup("<strong>國父紀念館站出口5</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker227 = L.marker([25.041408, 121.565459], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker227.bindPopup("<strong>市政府站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker228 = L.marker([25.040971, 121.565062], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker228.bindPopup("<strong>市政府站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker229 = L.marker([25.040903, 121.567149], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker229.bindPopup("<strong>市政府站出口3</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker230 = L.marker([25.041263, 121.567181], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker230.bindPopup("<strong>市政府站出口4</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker231 = L.marker([25.040995, 121.57512], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker231.bindPopup("<strong>永春站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker232 = L.marker([25.040704, 121.575383], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker232.bindPopup("<strong>永春站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker233 = L.marker([25.040704, 121.576155], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker233.bindPopup("<strong>永春站出口3</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker234 = L.marker([25.040699, 121.576574], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker234.bindPopup("<strong>永春站出口4</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker235 = L.marker([25.040961, 121.576622], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker235.bindPopup("<strong>永春站出口5</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker236 = L.marker([25.044422, 121.58141], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker236.bindPopup("<strong>後山埤站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker237 = L.marker([25.043703, 121.581854], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker237.bindPopup("<strong>後山埤站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker238 = L.marker([25.045232, 121.583277], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker238.bindPopup("<strong>後山埤站出口3</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker239 = L.marker([25.045653, 121.582441], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker239.bindPopup("<strong>後山埤站出口4</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker240 = L.marker([25.050319, 121.592726], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker240.bindPopup("<strong>昆陽站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker241 = L.marker([25.050402, 121.592825], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker241.bindPopup("<strong>昆陽站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker242 = L.marker([25.050599, 121.59363], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker242.bindPopup("<strong>昆陽站出口3</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker243 = L.marker([25.050572, 121.593799], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker243.bindPopup("<strong>昆陽站出口4</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker244 = L.marker([25.051911, 121.606357], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker244.bindPopup("<strong>南港站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker245 = L.marker([25.052025, 121.60743], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker245.bindPopup("<strong>南港站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker246 = L.marker([25.033025, 121.569394], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker246.bindPopup("<strong>象山站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker247 = L.marker([25.032366, 121.569809], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker247.bindPopup("<strong>象山站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker248 = L.marker([25.03302, 121.570408], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker248.bindPopup("<strong>象山站出口3</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker249 = L.marker([25.033107, 121.561671], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker249.bindPopup("<strong>台北101_世貿站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker250 = L.marker([25.032733, 121.561564], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker250.bindPopup("<strong>台北101_世貿站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker251 = L.marker([25.032742, 121.563646], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker251.bindPopup("<strong>台北101_世貿站出口3</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker252 = L.marker([25.033034, 121.564112], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker252.bindPopup("<strong>台北101_世貿站出口4</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker253 = L.marker([25.033102, 121.563292], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker253.bindPopup("<strong>台北101_世貿站出口5</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker254 = L.marker([25.033377, 121.552602], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker254.bindPopup("<strong>信義安和站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker255 = L.marker([25.033032, 121.552332], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker255.bindPopup("<strong>信義安和站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker256 = L.marker([25.033022, 121.553282], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker256.bindPopup("<strong>信義安和站出口3</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker257 = L.marker([25.033022, 121.5534], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker257.bindPopup("<strong>信義安和站出口4</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker258 = L.marker([25.033326, 121.553526], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker258.bindPopup("<strong>信義安和站出口5</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker259 = L.marker([25.033693, 121.534442], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker259.bindPopup("<strong>大安森林公園站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker260 = L.marker([25.033391, 121.534487], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker260.bindPopup("<strong>大安森林公園站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker261 = L.marker([25.033396, 121.534882], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker261.bindPopup("<strong>大安森林公園站出口3</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker262 = L.marker([25.033391, 121.535292], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker262.bindPopup("<strong>大安森林公園站出口4</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker263 = L.marker([25.033369, 121.535989], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker263.bindPopup("<strong>大安森林公園站出口5</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker264 = L.marker([25.033654, 121.535952], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker264.bindPopup("<strong>大安森林公園站出口6</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker265 = L.marker([25.032932, 121.435264], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker265.bindPopup("<strong>輔大站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker266 = L.marker([25.032315, 121.435277], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker266.bindPopup("<strong>輔大站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker267 = L.marker([25.032776, 121.436541], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker267.bindPopup("<strong>輔大站出口3</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker268 = L.marker([25.033175, 121.43652], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker268.bindPopup("<strong>輔大站出口4</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker269 = L.marker([25.03615, 121.452168], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker269.bindPopup("<strong>新莊站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker270 = L.marker([25.036014, 121.4525], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker270.bindPopup("<strong>新莊站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker271 = L.marker([25.03963, 121.460783], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker271.bindPopup("<strong>頭前庄站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker272 = L.marker([25.039068, 121.460931], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker272.bindPopup("<strong>頭前庄站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker273 = L.marker([25.039853, 121.462247], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker273.bindPopup("<strong>頭前庄站出口3</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker274 = L.marker([25.040485, 121.462242], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker274.bindPopup("<strong>頭前庄站出口4</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker275 = L.marker([25.046497, 121.471319], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker275.bindPopup("<strong>先嗇宮站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker276 = L.marker([25.046094, 121.471372], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker276.bindPopup("<strong>先嗇宮站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker277 = L.marker([25.046239, 121.471801], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker277.bindPopup("<strong>先嗇宮站出口3</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker278 = L.marker([25.055303, 121.483748], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker278.bindPopup("<strong>三重站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker279 = L.marker([25.055429, 121.484451], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker279.bindPopup("<strong>三重站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker280 = L.marker([25.056134, 121.485282], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker280.bindPopup("<strong>三重站出口3</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker281 = L.marker([25.05971, 121.490673], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker281.bindPopup("<strong>菜寮站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker282 = L.marker([25.059287, 121.491106], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker282.bindPopup("<strong>菜寮站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker283 = L.marker([25.060556, 121.492111], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker283.bindPopup("<strong>菜寮站出口3</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker284 = L.marker([25.062966, 121.500281], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker284.bindPopup("<strong>台北橋站出口</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker285 = L.marker([25.06318, 121.512319], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker285.bindPopup("<strong>大橋頭站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker286 = L.marker([25.063195, 121.513258], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker286.bindPopup("<strong>大橋頭站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker287 = L.marker([25.063739, 121.51344], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker287.bindPopup("<strong>大橋頭站出口3</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker288 = L.marker([25.06284, 121.526095], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker288.bindPopup("<strong>中山國小站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker289 = L.marker([25.062461, 121.526148], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker289.bindPopup("<strong>中山國小站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker290 = L.marker([25.062476, 121.527114], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker290.bindPopup("<strong>中山國小站出口3</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker291 = L.marker([25.062835, 121.526835], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker291.bindPopup("<strong>中山國小站出口4</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker292 = L.marker([25.058316, 121.533004], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker292.bindPopup("<strong>行天宮站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker293 = L.marker([25.058792, 121.533342], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker293.bindPopup("<strong>行天宮站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker294 = L.marker([25.059868, 121.533393], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker294.bindPopup("<strong>行天宮站出口3</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker295 = L.marker([25.060365, 121.532991], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker295.bindPopup("<strong>行天宮站出口4</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker296 = L.marker([25.034157, 121.527994], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker296.bindPopup("<strong>東門站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker297 = L.marker([25.03422, 121.527565], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker297.bindPopup("<strong>東門站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker298 = L.marker([25.033676, 121.527854], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker298.bindPopup("<strong>東門站出口3</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker299 = L.marker([25.033646, 121.528879], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker299.bindPopup("<strong>東門站出口4</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker300 = L.marker([25.033564, 121.529506], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker300.bindPopup("<strong>東門站出口5</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker301 = L.marker([25.033924, 121.529957], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker301.bindPopup("<strong>東門站出口6</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker302 = L.marker([25.033962, 121.529678], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker302.bindPopup("<strong>東門站出口7</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker303 = L.marker([25.034074, 121.528965], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker303.bindPopup("<strong>東門站出口8</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker304 = L.marker([25.091463, 121.464565], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker304.bindPopup("<strong>蘆洲站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker305 = L.marker([25.091609, 121.464597], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker305.bindPopup("<strong>蘆洲站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker306 = L.marker([25.091618, 121.464425], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker306.bindPopup("<strong>蘆洲站出口3</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker307 = L.marker([25.085494, 121.472542], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker307.bindPopup("<strong>三民高中站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker308 = L.marker([25.085791, 121.473739], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker308.bindPopup("<strong>三民高中站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker309 = L.marker([25.080303, 121.47988], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker309.bindPopup("<strong>徐匯中學站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker310 = L.marker([25.080332, 121.480583], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker310.bindPopup("<strong>徐匯中學站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker311 = L.marker([25.076586, 121.486398], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker311.bindPopup("<strong>三和國中站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker312 = L.marker([25.076946, 121.486752], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker312.bindPopup("<strong>三和國中站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker313 = L.marker([25.070536, 121.496656], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker313.bindPopup("<strong>三重國小站出口</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker314 = L.marker([25.021864, 121.411264], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker314.bindPopup("<strong>迴龍站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker315 = L.marker([25.02118, 121.41077], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker315.bindPopup("<strong>迴龍站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker316 = L.marker([25.022637, 121.412482], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker316.bindPopup("<strong>迴龍站出口3</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker317 = L.marker([25.029048, 121.422282], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker317.bindPopup("<strong>丹鳳站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker318 = L.marker([25.028742, 121.422615], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker318.bindPopup("<strong>丹鳳站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker319 = L.marker([25.052625, 121.542121], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker319.bindPopup("<strong>南京復興站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker320 = L.marker([25.051748, 121.541863], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker320.bindPopup("<strong>南京復興站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker321 = L.marker([25.051719, 121.543237], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker321.bindPopup("<strong>南京復興站出口3</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker322 = L.marker([25.051719, 121.543237], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker322.bindPopup("<strong>南京復興站出口4</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker323 = L.marker([25.051727, 121.544338], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker323.bindPopup("<strong>南京復興站出口5</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker324 = L.marker([25.052057, 121.544908], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker324.bindPopup("<strong>南京復興站出口6</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker325 = L.marker([25.052018, 121.543819], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker325.bindPopup("<strong>南京復興站出口8</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker326 = L.marker([25.052329, 121.54447], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker326.bindPopup("<strong>南京復興站出口7</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker327 = L.marker([25.052414, 121.520303], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker327.bindPopup("<strong>中山站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker328 = L.marker([25.052858, 121.520306], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker328.bindPopup("<strong>中山站出口4</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker329 = L.marker([25.052382, 121.521063], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker329.bindPopup("<strong>中山站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker330 = L.marker([25.052611, 121.521154], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker330.bindPopup("<strong>中山站出口3</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker331 = L.marker([25.053037, 121.519329], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker331.bindPopup("<strong>中山站出口5</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker332 = L.marker([25.052833, 121.519007], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker332.bindPopup("<strong>中山站出口6</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker333 = L.marker([25.042137, 121.507566], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker333.bindPopup("<strong>西門站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker334 = L.marker([25.041545, 121.508435], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker334.bindPopup("<strong>西門站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker335 = L.marker([25.041789, 121.508888], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker335.bindPopup("<strong>西門站出口3</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker336 = L.marker([25.042203, 121.509006], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker336.bindPopup("<strong>西門站出口4</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker337 = L.marker([25.042935, 121.508789], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker337.bindPopup("<strong>西門站出口5</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker338 = L.marker([25.042573, 121.507602], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker338.bindPopup("<strong>西門站出口6</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker339 = L.marker([25.051842, 121.532388], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker339.bindPopup("<strong>松江南京站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker340 = L.marker([25.051342, 121.532875], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker340.bindPopup("<strong>松江南京站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker341 = L.marker([25.051085, 121.53287], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker341.bindPopup("<strong>松江南京站出口3</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker342 = L.marker([25.051624, 121.53324], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker342.bindPopup("<strong>松江南京站出口4</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker343 = L.marker([25.051882, 121.534081], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker343.bindPopup("<strong>松江南京站出口5</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker344 = L.marker([25.052095, 121.533727], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker344.bindPopup("<strong>松江南京站出口6</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker345 = L.marker([25.05247, 121.533195], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker345.bindPopup("<strong>松江南京站出口7</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker346 = L.marker([25.05257, 121.532826], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker346.bindPopup("<strong>松江南京站出口8</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker347 = L.marker([25.048737, 121.509862], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker347.bindPopup("<strong>北門站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker348 = L.marker([25.049583, 121.510506], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker348.bindPopup("<strong>北門站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker349 = L.marker([25.049943, 121.510227], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker349.bindPopup("<strong>北門站出口3</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker350 = L.marker([25.051836, 121.55153], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker350.bindPopup("<strong>台北小巨蛋站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker351 = L.marker([25.051571, 121.550715], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker351.bindPopup("<strong>台北小巨蛋站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker352 = L.marker([25.05152, 121.552549], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker352.bindPopup("<strong>台北小巨蛋站出口3</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker353 = L.marker([25.051534, 121.552898], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker353.bindPopup("<strong>台北小巨蛋站出口4</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker354 = L.marker([25.051838, 121.552069], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker354.bindPopup("<strong>台北小巨蛋站出口5</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker355 = L.marker([25.051517, 121.563643], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker355.bindPopup("<strong>南京三民站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker356 = L.marker([25.051215, 121.563073], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker356.bindPopup("<strong>南京三民站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker357 = L.marker([25.051328, 121.564595], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker357.bindPopup("<strong>南京三民站出口3</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker358 = L.marker([25.051588, 121.56471], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker358.bindPopup("<strong>南京三民站出口4</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker359 = L.marker([25.050171, 121.577022], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker359.bindPopup("<strong>松山站出口1</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker360 = L.marker([25.050171, 121.576244], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker360.bindPopup("<strong>松山站出口2</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker361 = L.marker([25.049799, 121.577464], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker361.bindPopup("<strong>松山站出口3</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker362 = L.marker([25.049799, 121.577971], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker362.bindPopup("<strong>松山站出口4</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
+    var marker363 = L.marker([25.050557, 121.57813], {
+        icon: placeholder
+    }).addTo(mymap);
+    marker363.bindPopup("<strong>松山站出口5</strong><br><a href='map2.php?long=123'>Search</a>").openPopup().on('click', onClick);
