@@ -1,0 +1,98 @@
+/*!
+ * Start Bootstrap - 1 Col Portfolio (http://startbootstrap.com/template-overviews/1-col-portfolio)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-1-col-portfolio/blob/master/LICENSE)
+ */
+
+
+.container-fluid {
+
+    margin-left: 15px;
+    margin-right: 15px;
+    padding-top: 15px;
+
+}
+
+
+.navbar-toggler {
+    z-index: 1;
+}
+
+@media (max-width: 576px) {
+    nav > .container {
+        width: 100%;
+    }
+}
+
+.scene-content {
+	padding-top: 30px;
+}
+
+.scene-para {
+    margin-top: 15px;
+}
+
+.d-block.img-fluid {
+	max-height: 200px;
+	margin-left: auto;
+    margin-right: auto;
+}
+
+
+/* bar chart */
+#barchart {
+  width: 100%;
+  /*min-height: 450px;*/
+}
+
+#mapid {
+    margin-bottom: 5px;
+}
+
+.barContainer {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+
+.aaa {
+    background-color: red;
+}
+
+ #table tr td {
+    font-size: 9pt;
+    text-align: center;
+    vertical-align: middle;
+}
+
+#smallbox {
+    font-size: 12pt;
+}
+
+.leaflet-popup-content {
+    text-align: left;
+}
+
+.leaflet-container a {
+    text-decoration: none;
+
+}
+
+.leaflet-container a:hover {
+    color: red;
+    
+}
+
+#scenebox {
+    font-size: 12pt;
+}
+
+.modal-dialog {
+   width: 300px;
+   height: 500px;
+   position: absolute;
+   left: 50%;
+   top: 50%; 
+   margin-left: -150px;
+   margin-top: -210px;
+}
